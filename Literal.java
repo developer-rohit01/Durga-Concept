@@ -5,7 +5,7 @@ public class Literal {
     int b =010;//Octal form of Integral Literal allowed = 0 to 7
     int c =0x200;//HexaDecimal form of Integral Literal , should be prefixed with OX
     int e=0XFace;//HexaDecimal form of Integral Literal , should be prefixed with OX
-
+//What is the meaning of Face in OXFace 
     int d = a+b+c;
     System.out.println(a);
     System.out.println(b);
