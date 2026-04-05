@@ -10,6 +10,7 @@ public class Lecture06 {
 
     System.out.println(a);
     System.out.println(b);
+    System.out.println(b+ch); //what would be the error ??
 
     // int c =0;
     // if(c==0)//incompatible types: int cannot be converted to boolean
